@@ -12,3 +12,4 @@ Gere uma secretkey através da plataforma web da [openAPI](https://openai.com/ap
  #### Apresentação do projeto
  
  
+![gif](https://user-images.githubusercontent.com/21008992/215185260-c0a99efa-d9d5-4cec-a9a7-6fa8876531d2.gif)
