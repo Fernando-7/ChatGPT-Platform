@@ -1,2 +1,2 @@
 # Arquivo para adição de chave privada
-my_app/.streamlit/secrets.toml
+.streamlit/secrets.toml
